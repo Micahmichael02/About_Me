@@ -1,7 +1,7 @@
 # Hi 👋, I'm Michael Chukwuemeka Micah
 
 ### 🚀 AI Engineer | Data Engineer | Full-Stack Developer
-**Building intelligent systems, data pipelines, and scalable applications**
+**Building intelligent systems, data pipelines, and scalable applications** 
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
