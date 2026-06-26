@@ -124,6 +124,15 @@
   <img width="98%" alt="Micahmichael02's GitHub Contribution Calendar" src="https://github-readme-activity-graph.vercel.app/graph?username=Micahmichael02&theme=github-dark&bg_color=0d1117&line=0077b6&point=0077b6&area=true&hide_border=true" />
 </div>
 
+<br />
+
+<div align="center">
+  <img width="49%" alt="Active 24/7" src="[YOUR_FIRST_IMAGE_URL_HERE]    (https://github.com/Micahmichael02/Micahmichael02/blob/main/assets/1.gif)" />
+  <img width="49%" alt="AI User 😎" src="https://github.com/Micahmichael02/Micahmichael02/blob/main/assets/2.gif" />
+</div>
+
+<br />
+
 ---
 
 ## 🤖 AI & Computer Vision Engineering
