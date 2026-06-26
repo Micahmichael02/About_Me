@@ -148,6 +148,13 @@ Building intelligent vision systems, LLM applications, and multimodal AI solutio
       <p><strong>Tech:</strong> LangChain, LangGraph, Pinecone, FastAPI</p>
       <p>Multi-document semantic search & analysis</p>
     </td>
+    <td width="50%" align="center">
+      <h3>🧠 LLM Document Analysis</h3>
+      <img src="https://via.placeholder.com/500x300?text=LLM+App+Demo+GIF" width="100%" alt="LLM App" />
+      <p><a href="https://github.com/Micahmichael02/llm-document-analysis"><strong>View Repository →</strong></a></p>
+      <p><strong>Tech:</strong> LangChain, LangGraph, Pinecone, FastAPI</p>
+      <p>Multi-document semantic search & analysis</p>
+    </td>
   </tr>
   <tr>
     <td width="100%" align="center" colspan="2">
