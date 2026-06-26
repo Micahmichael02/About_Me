@@ -142,8 +142,8 @@ Building intelligent vision systems, LLM applications, and multimodal AI solutio
       <p>Real-time object detection with tracking</p>
     </td>
     <td width="5%" align="center">
-      <h3>🧠 LLM Document Analysis</h3>
-      <img src="https://via.placeholder.com/500x300?text=LLM+App+Demo+GIF" width="100%" alt="LLM App" />
+      <h3>⚽ Football-Analytics</h3>
+      <img src="[https://via.placeholder.com/500x300?text=LLM+App+Demo+GIF](https://github.com/Micahmichael02/Football-Analytics/blob/main/assets/demo.gif)" width="100%" alt="Football-Analytics" />
       <p><a href="https://github.com/Micahmichael02/llm-document-analysis"><strong>View Repository →</strong></a></p>
       <p><strong>Tech:</strong> LangChain, LangGraph, Pinecone, FastAPI</p>
       <p>Multi-document semantic search & analysis</p>
