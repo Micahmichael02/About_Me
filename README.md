@@ -144,21 +144,21 @@ Building intelligent vision systems, LLM applications, and multimodal AI solutio
 
 <table>
   <tr>
-    <td width="5%" align="center">
+    <td width="33%" align="center">
       <h3>🎯 3D-Reconstruction-Projects</h3>
       <img src="https://github.com/Micahmichael02/3D-Reconstruction-Projects/blob/main/assets/ProbabilisticVolumetricReconstruction.gif" width="100%" alt="3D Reconstruction" />
       <p><a href="https://github.com/Micahmichael02/3D-Reconstruction-Projects"><strong>View Repository →</strong></a></p>
       <p><strong>Tech:</strong> 3D reconstruction, point cloud segmentation, depth estimation, and 3D visualization.</p>
       <p>Monocular 3D Point Cloud Generator (2D to 3D), 3D Reconstruction with Depth-Anything-3 </p>
     </td>
-    <td width="5%" align="center">
+    <td width="33%" align="center">
       <h3>⚽ Football-Analytics</h3>
       <img src="https://raw.githubusercontent.com/Micahmichael02/Football-Analytics/main/assets/demo.gif" width="100%" alt="Football-Analytics" />
       <p><a href="https://github.com/Micahmichael02/Football-Analytics"><strong>View Repository →</strong></a></p>
       <p><strong>Tech:</strong> Detection & Tracking, Camera Motion, Speed & Distance</p>
       <p>Ball Possession Attribution, Rich On-Frame Overlays</p>
     </td>
-    <td width="5%" align="center">
+    <td width="33%" align="center">
       <h3>🎯 Computer-vision: Object-Detections-and-Tracking-Lab</h3>
       <img src="https://github.com/Micahmichael02/Object-Detections-and-Tracking-Lab/blob/main/OD_ROI_Areas/output.gif" width="100%" alt="Object Detection" />
       <p><a href="https://github.com/Micahmichael02/Object-Detections-and-Tracking-Lab"><strong>View Repository →</strong></a></p>
@@ -167,21 +167,21 @@ Building intelligent vision systems, LLM applications, and multimodal AI solutio
     </td>
   </tr>
   <tr>
-    <td width="5%" align="center" colspan="2">
+    <td width="33%" align="center" colspan="2">
       <h3>📸 Computer Vision Analytics</h3>
       <img src="https://github.com/Micahmichael02/Computer-vision-Analytics-/blob/main/Real-Time-Object-Detection-and-Tracking-with-Analytics-Dashboard/assets/gifs/yolov11_demo4.gif" width="50%" alt="CV Analytics" />
       <p><a href="https://github.com/Micahmichael02/Computer-vision-Analytics-"><strong>View Repository →</strong></a></p>
       <p><strong>Tech:</strong> Image Processing and Stitching, Road, Shelf, Video Processing and Analytics</p>
-      <p>Real-time detection; built for Real-world analytics: counting, tracking, dashboards, and alerting</p>
+      <p>Real-time for Real-world analytics: counting dashboards</p>
     </td>
-    <td width="5%" align="center" colspan="2">
+    <td width="33%" align="center" colspan="2">
       <h3>📸 Computer Vision Annotation Pipeline</h3>
       <img src="https://via.placeholder.com/500x300?text=CV+Pipeline+Demo+GIF" width="50%" alt="CV Pipeline" />
       <p><a href="https://github.com/Micahmichael02/cv-annotation-pipeline"><strong>View Repository →</strong></a></p>
       <p><strong>Tech:</strong> TensorFlow, Active Learning, Django</p>
       <p>Semi-automated ML-assisted annotation for 50K+ images</p>
     </td>
-    <td width="5%" align="center" colspan="2">
+    <td width="33%" align="center" colspan="2">
       <h3>📸 Computer Vision Annotation Pipeline</h3>
       <img src="https://via.placeholder.com/500x300?text=CV+Pipeline+Demo+GIF" width="50%" alt="CV Pipeline" />
       <p><a href="https://github.com/Micahmichael02/cv-annotation-pipeline"><strong>View Repository →</strong></a></p>
