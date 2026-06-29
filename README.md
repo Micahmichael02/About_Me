@@ -142,54 +142,50 @@ Building intelligent vision systems, LLM applications, and multimodal AI solutio
 
 ### Featured Projects
 
+> GIF demos are shown first, followed by projects with static result images. New projects can be added as additional rows in the table below.
+
 <table>
   <tr>
     <td width="33%" align="center">
-      <h3>🎯 3D-Reconstruction-Projects</h3>
-      <img src="https://github.com/Micahmichael02/3D-Reconstruction-Projects/blob/main/assets/ProbabilisticVolumetricReconstruction.gif" width="100%" alt="3D Reconstruction" />
+      <h3>🏗️ 3D Reconstruction Projects</h3>
+      <img src="https://raw.githubusercontent.com/Micahmichael02/3D-Reconstruction-Projects/main/assets/ProbabilisticVolumetricReconstruction.gif" width="100%" alt="3D Reconstruction Demo" />
       <p><a href="https://github.com/Micahmichael02/3D-Reconstruction-Projects"><strong>View Repository →</strong></a></p>
-      <p><strong>Tech:</strong> 3D reconstruction, point cloud segmentation, depth estimation, and 3D visualization.</p>
-      <p>Monocular 3D Point Cloud Generator (2D to 3D), 3D Reconstruction with Depth-Anything-3 </p>
+      <p><strong>Tech:</strong> Depth Estimation, Point Cloud, Open3D, Depth-Anything</p>
+      <p>Monocular 3D point cloud generation (2D→3D), volumetric reconstruction with depth estimation and 3D visualization.</p>
     </td>
     <td width="33%" align="center">
-      <h3>⚽ Football-Analytics</h3>
-      <img src="https://raw.githubusercontent.com/Micahmichael02/Football-Analytics/main/assets/demo.gif" width="100%" alt="Football-Analytics" />
+      <h3>⚽ Football Analytics</h3>
+      <img src="https://raw.githubusercontent.com/Micahmichael02/Football-Analytics/main/assets/demo.gif" width="100%" alt="Football Analytics Demo" />
       <p><a href="https://github.com/Micahmichael02/Football-Analytics"><strong>View Repository →</strong></a></p>
-      <p><strong>Tech:</strong> Detection & Tracking, Camera Motion, Speed & Distance</p>
-      <p>Ball Possession Attribution, Rich On-Frame Overlays</p>
+      <p><strong>Tech:</strong> YOLO, Tracking, Camera Motion, Speed & Distance</p>
+      <p>Ball possession attribution, player speed & distance tracking, and rich on-frame overlays for match analysis.</p>
     </td>
     <td width="33%" align="center">
-      <h3>🎯 Computer-vision: Object-Detections-and-Tracking-Lab</h3>
-      <img src="https://github.com/Micahmichael02/Object-Detections-and-Tracking-Lab/blob/main/OD_ROI_Areas/output.gif" width="100%" alt="Object Detection" />
+      <h3>🎯 Object Detection & Tracking Lab</h3>
+      <img src="https://raw.githubusercontent.com/Micahmichael02/Object-Detections-and-Tracking-Lab/main/OD_ROI_Areas/output.gif" width="100%" alt="Object Detection Demo" />
       <p><a href="https://github.com/Micahmichael02/Object-Detections-and-Tracking-Lab"><strong>View Repository →</strong></a></p>
-      <p><strong>Tech:</strong> YOLO/Ultralytics, MediaPipe, Firebase Face attendance, Gesture Recognition, PyTorch, OpenCV, FastAPI, Tensorflow/Keras, MySQL and face-api.js</p>
-      <p>Real-time object detection with tracking Lab</p>
+      <p><strong>Tech:</strong> YOLO, MediaPipe, PyTorch, OpenCV, FastAPI, TensorFlow/Keras, Firebase, MySQL, face-api.js</p>
+      <p>Comprehensive lab: face attendance, gesture recognition, ROI detection, and real-time multi-model tracking.</p>
     </td>
   </tr>
   <tr>
-    <td width="5%" align="center" colspan="2">
-      <h3>📸 Computer Vision Analytics</h3>
-      <img src="https://github.com/Micahmichael02/Computer-vision-Analytics-/blob/main/Real-Time-Object-Detection-and-Tracking-with-Analytics-Dashboard/assets/gifs/yolov11_demo4.gif" width="50%" alt="CV Analytics" />
+    <td width="33%" align="center">
+      <h3>📊 Computer Vision Analytics</h3>
+      <img src="https://raw.githubusercontent.com/Micahmichael02/Computer-vision-Analytics-/main/Real-Time-Object-Detection-and-Tracking-with-Analytics-Dashboard/assets/gifs/yolov11_demo4.gif" width="100%" alt="Computer Vision Analytics Demo" />
       <p><a href="https://github.com/Micahmichael02/Computer-vision-Analytics-"><strong>View Repository →</strong></a></p>
-      <p><strong>Tech:</strong> Image Processing and Stitching, Road, Shelf, Video Processing and Analytics</p>
-      <p>Real-time for Real-world analytics: counting and dashboards</p>
+      <p><strong>Tech:</strong> YOLO, OpenCV, MySQL, Power BI, Image Stitching</p>
+      <p>Real-world analytics suite: road traffic counting, shelf monitoring, lane detection, frame extraction, and live dashboards.</p>
     </td>
-    <td width="33%" align="center" colspan="2">
-      <h3>📸 Computer Vision Annotation Pipeline</h3>
-      <img src="https://via.placeholder.com/500x300?text=CV+Pipeline+Demo+GIF" width="50%" alt="CV Pipeline" />
+    <td width="66%" align="center" colspan="2">
+      <h3>🏷️ CV Annotation Pipeline</h3>
+      <img src="https://via.placeholder.com/500x300?text=CV+Pipeline+Demo+GIF" width="50%" alt="CV Annotation Pipeline Demo" />
       <p><a href="https://github.com/Micahmichael02/cv-annotation-pipeline"><strong>View Repository →</strong></a></p>
       <p><strong>Tech:</strong> TensorFlow, Active Learning, Django</p>
-      <p>Semi-automated ML-assisted annotation for 50K+ images</p>
-    </td>
-    <td width="33%" align="center" colspan="2">
-      <h3>📸 Computer Vision Annotation Pipeline</h3>
-      <img src="https://via.placeholder.com/500x300?text=CV+Pipeline+Demo+GIF" width="50%" alt="CV Pipeline" />
-      <p><a href="https://github.com/Micahmichael02/cv-annotation-pipeline"><strong>View Repository →</strong></a></p>
-      <p><strong>Tech:</strong> TensorFlow, Active Learning, Django</p>
-      <p>Semi-automated ML-assisted annotation for 50K+ images</p>
+      <p>Semi-automated ML-assisted annotation pipeline for 50K+ images with active learning feedback loops.</p>
     </td>
   </tr>
 </table>
+
 
 ---
 
