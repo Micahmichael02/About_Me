@@ -178,7 +178,7 @@ Building intelligent vision systems, LLM applications, and multimodal AI solutio
     </td>
     <td width="33%" align="center">
       <h3>📊 Pose Estimation</h3>
-      <img src="https://github.com/Micahmichael02/Pose-Estimation/blob/main/assets/images/mediapipe-pose-landmarks.png" width="100%" alt="Computer Vision Analytics Demo" />
+      <img src="https://github.com/Micahmichael02/Pose-Estimation/blob/main/assets/gifs/yolov8-multiperson-tracking-demo.gif" width="100%" alt="Computer Vision Analytics Demo" />
       <p><a href="https://github.com/Micahmichael02/Pose-Estimation"><strong>View Repository →</strong></a></p>
       <p><strong>Tech:</strong> YOLO, OpenCV, & MediaPipe</p>
       <p>real-time landmark detection and a webcam-driven body-language classifier</p>
