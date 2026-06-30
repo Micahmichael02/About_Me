@@ -177,11 +177,11 @@ Building intelligent vision systems, LLM applications, and multimodal AI solutio
       <p>Real-world analytics suite: road traffic counting, shelf monitoring, lane detection, frame extraction, and live dashboards.</p>
     </td>
     <td width="33%" align="center">
-      <h3>📊 Computer Vision Analytics</h3>
-      <img src="https://raw.githubusercontent.com/Micahmichael02/Computer-vision-Analytics-/main/Real-Time-Object-Detection-and-Tracking-with-Analytics-Dashboard/assets/gifs/yolov11_demo4.gif" width="100%" alt="Computer Vision Analytics Demo" />
-      <p><a href="https://github.com/Micahmichael02/Computer-vision-Analytics-"><strong>View Repository →</strong></a></p>
-      <p><strong>Tech:</strong> YOLO, OpenCV, MySQL, Power BI, Image Stitching</p>
-      <p>Real-world analytics suite: road traffic counting, shelf monitoring, lane detection, frame extraction, and live dashboards.</p>
+      <h3>📊 Pose Estimation</h3>
+      <img src="https://github.com/Micahmichael02/Pose-Estimation/blob/main/assets/images/mediapipe-pose-landmarks.png" width="100%" alt="Computer Vision Analytics Demo" />
+      <p><a href="https://github.com/Micahmichael02/Pose-Estimation"><strong>View Repository →</strong></a></p>
+      <p><strong>Tech:</strong> YOLO, OpenCV, & MediaPipe</p>
+      <p>real-time landmark detection and a webcam-driven body-language classifier</p>
     </td>
     <td width="66%" align="center" colspan="2">
       <h3>🏷️ CV Annotation Pipeline</h3>
