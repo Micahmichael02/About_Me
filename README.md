@@ -216,11 +216,11 @@ Building intelligent vision systems, LLM applications, and multimodal AI solutio
       <p>One-sentence description of what the project does and its key output.</p>
     </td>
     <td width="33%" align="center">
-      <h3>🔧 Project Name</h3>
-      <img src="https://raw.githubusercontent.com/Micahmichael02/YOUR-REPO/main/assets/demo.gif" width="100%" alt="Project Demo" />
-      <p><a href="https://github.com/Micahmichael02/YOUR-REPO"><strong>View Repository →</strong></a></p>
-      <p><strong>Tech:</strong> Tech1, Tech2, Tech3</p>
-      <p>One-sentence description of what the project does and its key output.</p>
+      <h3>🔧 Document-Scanner</h3>
+      <img src="https://github.com/Micahmichael02/Document-Scanner/blob/main/Documnet%20Scanner.jpg" width="100%" alt="Document-Scanner" />
+      <p><a href="https://github.com/Micahmichael02/Document-Scanner"><strong>View Repository →</strong></a></p>
+      <p><strong>Tech:</strong> Opencv, Python, Numpy</p>
+      <p>a real-time document scanner entirely in Python using OpenCV..</p>
     </td>
   </tr>
 </table>
