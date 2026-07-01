@@ -177,45 +177,108 @@ Building intelligent vision systems, LLM applications, and multimodal AI solutio
       <p>Real-world analytics suite: road traffic counting, shelf monitoring, lane detection, frame extraction, and live dashboards.</p>
     </td>
     <td width="33%" align="center">
-      <h3>📊 Pose Estimation</h3>
-      <img src="https://github.com/Micahmichael02/Pose-Estimation/blob/main/assets/gifs/yolov8-multiperson-tracking-demo.gif" width="100%" alt="Computer Vision Analytics Demo" />
+      <h3>🧍 Pose Estimation</h3>
+      <img src="https://raw.githubusercontent.com/Micahmichael02/Pose-Estimation/main/assets/gifs/yolov8-multiperson-tracking-demo.gif" width="100%" alt="Pose Estimation Demo" />
       <p><a href="https://github.com/Micahmichael02/Pose-Estimation"><strong>View Repository →</strong></a></p>
-      <p><strong>Tech:</strong> YOLO, OpenCV, & MediaPipe</p>
-      <p>real-time landmark detection and a webcam-driven body-language classifier</p>
+      <p><strong>Tech:</strong> YOLO, OpenCV, MediaPipe</p>
+      <p>Real-time landmark detection and a webcam-driven body-language classifier.</p>
     </td>
-    <td width="66%" align="center" colspan="2">
-      <h3>🏷️ Real-time-AI-Powered-Gym-Tracker</h3>
-      <img src="https://github.com/Micahmichael02/Real-time-AI-Powered-Gym-Tracker/blob/main/gif/output_workout.gif" width="50%" alt="Real-Time-AI-Gym-Tracker-Application" />
+    <td width="33%" align="center">
+      <h3>💪 Real-time AI Gym Tracker</h3>
+      <img src="https://raw.githubusercontent.com/Micahmichael02/Real-time-AI-Powered-Gym-Tracker/main/gif/output_workout.gif" width="100%" alt="AI Gym Tracker Demo" />
       <p><a href="https://github.com/Micahmichael02/Real-time-AI-Powered-Gym-Tracker"><strong>View Repository →</strong></a></p>
-      <p><strong>Tech:</strong> Python, YOLO, MediaPipe, Opencv</p>
-      <p>eal-time fitness tracking system using AI pose estimation to count reps, assess form quality, and visualize workout analytics for multiple people simultaneously — all from a webcam or video file.</p>
+      <p><strong>Tech:</strong> Python, YOLO, MediaPipe, OpenCV</p>
+      <p>Real-time fitness tracking using AI pose estimation to count reps, assess form quality, and visualize workout analytics for multiple people simultaneously.</p>
     </td>
   </tr>
   <tr>
     <td width="33%" align="center">
-      <h3>📊 Depth-Estimation</h3>
-      <img src="https://github.com/Micahmichael02/Depth-Estimation_projects/blob/main/depth_anything/assets/controlnet_demo1.png" width="100%" alt="Depth-Estimation" />
+      <h3>🔭 Depth Estimation</h3>
+      <img src="https://raw.githubusercontent.com/Micahmichael02/Depth-Estimation_projects/main/depth_anything/assets/controlnet_demo1.png" width="100%" alt="Depth Estimation Demo" />
       <p><a href="https://github.com/Micahmichael02/Depth-Estimation_projects"><strong>View Repository →</strong></a></p>
-      <p><strong>Tech:</strong> Python, Pytorch, Opencv and CUDA</p>
-      <p>real-time webcam depth, batch image/video processing, metric depth prediction, and object-aware depth annotation.</p>
+      <p><strong>Tech:</strong> Python, PyTorch, OpenCV, CUDA</p>
+      <p>Real-time webcam depth, batch image/video processing, metric depth prediction, and object-aware depth annotation.</p>
     </td>
     <td width="66%" align="center" colspan="2">
-      <h3>🏷️ Real-Time Object Measurement </h3>
-      <img src="https://github.com/Micahmichael02/Object-Measurement-Real-Time_App/blob/main/Thumbnail.gif" width="50%" alt="RT Object Measurement" />
+      <h3>📏 Real-Time Object Measurement</h3>
+      <img src="https://raw.githubusercontent.com/Micahmichael02/Object-Measurement-Real-Time_App/main/Thumbnail.gif" width="50%" alt="Real-Time Object Measurement Demo" />
       <p><a href="https://github.com/Micahmichael02/Object-Measurement-Real-Time_App"><strong>View Repository →</strong></a></p>
-      <p><strong>Tech:</strong> Python, Opencv and NumPy</p>
-      <p>A real-time computer vision application that measures the width and height of objects in centimeters</p>
+      <p><strong>Tech:</strong> Python, OpenCV, NumPy</p>
+      <p>A real-time computer vision application that measures the width and height of objects in centimeters.</p>
     </td>
-    </tr>
-  <tr>
-    <td width="100%" align="center">
-      <h3>📊 Computer Vision Analytics</h3>
-      <img src="https://raw.githubusercontent.com/Micahmichael02/Computer-vision-Analytics-/main/Real-Time-Object-Detection-and-Tracking-with-Analytics-Dashboard/assets/gifs/yolov11_demo4.gif" width="100%" alt="Computer Vision Analytics Demo" />
-      <p><a href="https://github.com/Micahmichael02/Computer-vision-Analytics-"><strong>View Repository →</strong></a></p>
-      <p><strong>Tech:</strong> YOLO, OpenCV, MySQL, Power BI, Image Stitching</p>
-      <p>Real-world analytics suite: road traffic counting, shelf monitoring, lane detection, frame extraction, and live dashboards.</p>
-    </td>
+  </tr>
 </table>
+
+<!--
+  ╔══════════════════════════════════════════════════════════════╗
+  ║  TEMPLATE — Add a new project row below this comment block  ║
+  ╚══════════════════════════════════════════════════════════════╝
+
+  LAYOUT OPTIONS (the three <td> cells in a row must sum to 3 columns):
+    • Standard cell  → width="33%" align="center"
+    • Wide cell      → width="66%" align="center" colspan="2"
+    • Full-width     → width="100%" align="center" colspan="3"
+
+  COPY one of the patterns below and paste inside the <table> above:
+
+  ── PATTERN A: three equal columns ──────────────────────────────
+
+  <tr>
+    <td width="33%" align="center">
+      <h3>🔧 Project Name</h3>
+      <img src="https://raw.githubusercontent.com/Micahmichael02/YOUR-REPO/main/assets/demo.gif" width="100%" alt="Project Demo" />
+      <p><a href="https://github.com/Micahmichael02/YOUR-REPO"><strong>View Repository →</strong></a></p>
+      <p><strong>Tech:</strong> Tech1, Tech2, Tech3</p>
+      <p>One-sentence description of what the project does and its key output.</p>
+    </td>
+    <td width="33%" align="center">
+      <h3>🔧 Project Name</h3>
+      <img src="https://raw.githubusercontent.com/Micahmichael02/YOUR-REPO/main/assets/demo.gif" width="100%" alt="Project Demo" />
+      <p><a href="https://github.com/Micahmichael02/YOUR-REPO"><strong>View Repository →</strong></a></p>
+      <p><strong>Tech:</strong> Tech1, Tech2, Tech3</p>
+      <p>One-sentence description of what the project does and its key output.</p>
+    </td>
+    <td width="33%" align="center">
+      <h3>🔧 Project Name</h3>
+      <img src="https://raw.githubusercontent.com/Micahmichael02/YOUR-REPO/main/assets/demo.gif" width="100%" alt="Project Demo" />
+      <p><a href="https://github.com/Micahmichael02/YOUR-REPO"><strong>View Repository →</strong></a></p>
+      <p><strong>Tech:</strong> Tech1, Tech2, Tech3</p>
+      <p>One-sentence description of what the project does and its key output.</p>
+    </td>
+  </tr>
+
+  ── PATTERN B: one narrow + one wide (1/3 + 2/3) ───────────────
+
+  <tr>
+    <td width="33%" align="center">
+      <h3>🔧 Project Name</h3>
+      <img src="https://raw.githubusercontent.com/Micahmichael02/YOUR-REPO/main/assets/demo.gif" width="100%" alt="Project Demo" />
+      <p><a href="https://github.com/Micahmichael02/YOUR-REPO"><strong>View Repository →</strong></a></p>
+      <p><strong>Tech:</strong> Tech1, Tech2, Tech3</p>
+      <p>One-sentence description of what the project does and its key output.</p>
+    </td>
+    <td width="66%" align="center" colspan="2">
+      <h3>🔧 Featured Project Name</h3>
+      <img src="https://raw.githubusercontent.com/Micahmichael02/YOUR-REPO/main/assets/demo.gif" width="50%" alt="Project Demo" />
+      <p><a href="https://github.com/Micahmichael02/YOUR-REPO"><strong>View Repository →</strong></a></p>
+      <p><strong>Tech:</strong> Tech1, Tech2, Tech3</p>
+      <p>One-sentence description of what the project does and its key output.</p>
+    </td>
+  </tr>
+
+  ── PATTERN C: single full-width featured project ───────────────
+
+  <tr>
+    <td width="100%" align="center" colspan="3">
+      <h3>🔧 Featured Project Name</h3>
+      <img src="https://raw.githubusercontent.com/Micahmichael02/YOUR-REPO/main/assets/demo.gif" width="50%" alt="Project Demo" />
+      <p><a href="https://github.com/Micahmichael02/YOUR-REPO"><strong>View Repository →</strong></a></p>
+      <p><strong>Tech:</strong> Tech1, Tech2, Tech3</p>
+      <p>One-sentence description of what the project does and its key output.</p>
+    </td>
+  </tr>
+-->
+
 
 
 ---
