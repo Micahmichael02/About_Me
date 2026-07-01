@@ -207,6 +207,22 @@ Building intelligent vision systems, LLM applications, and multimodal AI solutio
       <p>A real-time computer vision application that measures the width and height of objects in centimeters.</p>
     </td>
   </tr>
+  <tr>
+     <td width="66%" align="center" colspan="2">
+      <h3>🔧 Featured Project Name</h3>
+      <img src="https://raw.githubusercontent.com/Micahmichael02/YOUR-REPO/main/assets/demo.gif" width="50%" alt="Project Demo" />
+      <p><a href="https://github.com/Micahmichael02/YOUR-REPO"><strong>View Repository →</strong></a></p>
+      <p><strong>Tech:</strong> Tech1, Tech2, Tech3</p>
+      <p>One-sentence description of what the project does and its key output.</p>
+    </td>
+    <td width="33%" align="center">
+      <h3>🔧 Project Name</h3>
+      <img src="https://raw.githubusercontent.com/Micahmichael02/YOUR-REPO/main/assets/demo.gif" width="100%" alt="Project Demo" />
+      <p><a href="https://github.com/Micahmichael02/YOUR-REPO"><strong>View Repository →</strong></a></p>
+      <p><strong>Tech:</strong> Tech1, Tech2, Tech3</p>
+      <p>One-sentence description of what the project does and its key output.</p>
+    </td>
+  </tr>
 </table>
 
 <!--
